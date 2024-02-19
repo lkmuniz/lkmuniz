@@ -4,7 +4,7 @@
 
 I'm Android developer, Kotlin fan. Focused on write clean and readable codes
 
-- 🔭 I’m currently working on [Conductor](https://conductor.com.br/)
+- 🔭 I’m currently working on [Dock Tech](https://dock.tech.com.br/)
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: lkz.lmuniz@gmail.com or [Linkedin](https://www.linkedin.com/in/llmuniz/)
 
