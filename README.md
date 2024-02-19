@@ -6,6 +6,6 @@ I'm Android developer, Kotlin fan. Focused on write clean and readable codes
 
 - 🔭 I’m currently working on [Dock Tech](https://dock.tech/)
 - 🌱 I’m currently learning Kotlin
-- 📫 How to reach me: lkz.lmuniz@gmail.com or [Linkedin](https://www.linkedin.com/in/llmuniz/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/llmuniz/)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkmuniz&layout=compact&theme=vue" />
